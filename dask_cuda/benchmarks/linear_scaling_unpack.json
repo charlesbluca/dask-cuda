@@ -1,0 +1,2802 @@
+[
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 100,
+    "took": 0.000898163765668869,
+    "throughput": 1781412322738.792
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 100,
+    "took": 0.0007398836314678192,
+    "throughput": 2162502225959.2874
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 100,
+    "took": 0.0007022600620985031,
+    "throughput": 2278358241274.405
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 100,
+    "took": 0.0007588174194097519,
+    "throughput": 2108544109654.9473
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 100,
+    "took": 0.0007358519360423088,
+    "throughput": 2174350465944.8308
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 100,
+    "took": 0.0007118061184883118,
+    "throughput": 2247803100369.49
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 100,
+    "took": 0.0007347417995333672,
+    "throughput": 2177635736820.9573
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 100,
+    "took": 0.0007211668416857719,
+    "throughput": 2218626685968.9517
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 100,
+    "took": 0.0007885163649916649,
+    "throughput": 2029127195117.7742
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 100,
+    "took": 0.000610114075243473,
+    "throughput": 2622460397035.59
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 200,
+    "took": 0.0013150665909051895,
+    "throughput": 1216668426576.5466
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 200,
+    "took": 0.0012217219918966293,
+    "throughput": 1309626912351.9036
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 200,
+    "took": 0.0011813398450613022,
+    "throughput": 1354394340196.8064
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 200,
+    "took": 0.0018312213942408562,
+    "throughput": 873733785020.183
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 200,
+    "took": 0.0012054312974214554,
+    "throughput": 1327325749233.962
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 200,
+    "took": 0.0011646412312984467,
+    "throughput": 1373813632045.4465
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 200,
+    "took": 0.0011375527828931808,
+    "throughput": 1406528140110.2634
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 200,
+    "took": 0.001180233433842659,
+    "throughput": 1355664018761.6492
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 200,
+    "took": 0.0011540884152054787,
+    "throughput": 1386375583464.4
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 200,
+    "took": 0.0011166175827383995,
+    "throughput": 1432898805046.7114
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 300,
+    "took": 0.0019347500056028366,
+    "throughput": 826979400628.7993
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 300,
+    "took": 0.0022525563836097717,
+    "throughput": 710303374264.9171
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 300,
+    "took": 0.001590644009411335,
+    "throughput": 1005880882543.9999
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 300,
+    "took": 0.0015317704528570175,
+    "throughput": 1044541887471.2759
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 300,
+    "took": 0.0015855925157666206,
+    "throughput": 1009085489550.5194
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 300,
+    "took": 0.0015716198831796646,
+    "throughput": 1018056857847.1536
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 300,
+    "took": 0.001751268282532692,
+    "throughput": 913622667616.6802
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 300,
+    "took": 0.0015996629372239113,
+    "throughput": 1000209708413.1179
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 300,
+    "took": 0.0015646917745471,
+    "throughput": 1022564588136.2925
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 300,
+    "took": 0.001536262221634388,
+    "throughput": 1041487825104.3658
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 400,
+    "took": 0.0031580738723278046,
+    "throughput": 506637927003.4763
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 400,
+    "took": 0.002256164327263832,
+    "throughput": 709168202273.8137
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 400,
+    "took": 0.002174791879951954,
+    "throughput": 735702581359.3472
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 400,
+    "took": 0.0022608572617173195,
+    "throughput": 707696158927.1936
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 400,
+    "took": 0.002269514836370945,
+    "throughput": 704996492800.4044
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 400,
+    "took": 0.002357354387640953,
+    "throughput": 678726969686.1951
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 400,
+    "took": 0.0022691460326313972,
+    "throughput": 705111075704.7983
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 400,
+    "took": 0.002171706408262253,
+    "throughput": 736747837512.8439
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 400,
+    "took": 0.0022422494366765022,
+    "throughput": 713569139021.1901
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 400,
+    "took": 0.0021624471992254257,
+    "throughput": 739902458923.9032
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 500,
+    "took": 0.002993183210492134,
+    "throughput": 534547966990.94495
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 500,
+    "took": 0.002547396346926689,
+    "throughput": 628092288006.2708
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 500,
+    "took": 0.0026441775262355804,
+    "throughput": 605103093164.0441
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 500,
+    "took": 0.0026270654052495956,
+    "throughput": 609044600413.3594
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 500,
+    "took": 0.0026633189991116524,
+    "throughput": 600754171968.7648
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 500,
+    "took": 0.0026391083374619484,
+    "throughput": 606265372773.1135
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 500,
+    "took": 0.002520918846130371,
+    "throughput": 634689213600.0378
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 500,
+    "took": 0.00261495728045702,
+    "throughput": 611864680145.1249
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 500,
+    "took": 0.0025723716244101524,
+    "throughput": 621994110344.3333
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 500,
+    "took": 0.002552291378378868,
+    "throughput": 626887671820.7102
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 600,
+    "took": 0.0033904146403074265,
+    "throughput": 471918207577.9734
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 600,
+    "took": 0.003090399317443371,
+    "throughput": 517731928999.9224
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 600,
+    "took": 0.0032182643190026283,
+    "throughput": 497161898900.78864
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 600,
+    "took": 0.003195006400346756,
+    "throughput": 500780968647.3089
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 600,
+    "took": 0.0030538318678736687,
+    "throughput": 523931398068.11035
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 600,
+    "took": 0.003451804630458355,
+    "throughput": 463525190818.09705
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 600,
+    "took": 0.003221280872821808,
+    "throughput": 496696333902.24005
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 600,
+    "took": 0.0031387722119688988,
+    "throughput": 509752951774.8432
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 600,
+    "took": 0.0032605091109871864,
+    "throughput": 490720419890.3672
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 600,
+    "took": 0.003361753188073635,
+    "throughput": 475941662129.2289
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 700,
+    "took": 0.003977673128247261,
+    "throughput": 402244817111.2115
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 700,
+    "took": 0.0036313170567154884,
+    "throughput": 440611044150.2434
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 700,
+    "took": 0.0038520554080605507,
+    "throughput": 415362249632.2227
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 700,
+    "took": 0.0038937078788876534,
+    "throughput": 410918962019.5864
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 700,
+    "took": 0.0036862362176179886,
+    "throughput": 434046627927.1446
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 700,
+    "took": 0.0034839119762182236,
+    "throughput": 459253394150.5588
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 700,
+    "took": 0.0036105094477534294,
+    "throughput": 443150315254.14465
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 700,
+    "took": 0.003589947707951069,
+    "throughput": 445688497483.2085
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 700,
+    "took": 0.0035620974376797676,
+    "throughput": 449173114434.00214
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 700,
+    "took": 0.0035727238282561302,
+    "throughput": 447837134050.4563
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 800,
+    "took": 0.004941103979945183,
+    "throughput": 323814274399.81757
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 800,
+    "took": 0.004967847838997841,
+    "throughput": 322071056089.90765
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 800,
+    "took": 0.004661700688302517,
+    "throughput": 343222378908.80426
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 800,
+    "took": 0.004751179367303848,
+    "throughput": 336758492219.99634
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 800,
+    "took": 0.005196967162191868,
+    "throughput": 307871870278.5079
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 800,
+    "took": 0.004922349937260151,
+    "throughput": 325047999511.09985
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 800,
+    "took": 0.004814925603568554,
+    "throughput": 332300046092.9592
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 800,
+    "took": 0.004656769335269928,
+    "throughput": 343585839195.80304
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 800,
+    "took": 0.004685469903051853,
+    "throughput": 341481224531.5778
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 800,
+    "took": 0.004877089522778988,
+    "throughput": 328064513174.7167
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 900,
+    "took": 0.005536219105124474,
+    "throughput": 289005613690.21655
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 900,
+    "took": 0.004774721339344978,
+    "throughput": 335097754672.2122
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 900,
+    "took": 0.004735817201435566,
+    "throughput": 337850540243.61273
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 900,
+    "took": 0.0051446352154016495,
+    "throughput": 311003274869.7199
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 900,
+    "took": 0.004717101342976093,
+    "throughput": 339191016614.9909
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 900,
+    "took": 0.004731157794594765,
+    "throughput": 338183267070.0521
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 900,
+    "took": 0.0047135669738054276,
+    "throughput": 339445351872.9289
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 900,
+    "took": 0.00473721232265234,
+    "throughput": 337751042390.29956
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 900,
+    "took": 0.004713348113000393,
+    "throughput": 339461113764.7296
+  },
+  {
+    "nbytes": 1599998400,
+    "nbytes_str": "1.49 GiB",
+    "columns": 900,
+    "took": 0.004827593453228474,
+    "throughput": 331427742518.3751
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 1000,
+    "took": 0.006541184149682522,
+    "throughput": 244604029390.8644
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 1000,
+    "took": 0.005947858095169067,
+    "throughput": 269004400306.64856
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 1000,
+    "took": 0.006067105568945408,
+    "throughput": 263717184713.19003
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 1000,
+    "took": 0.005519069731235504,
+    "throughput": 289903929088.75653
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 1000,
+    "took": 0.005625056102871895,
+    "throughput": 284441607468.25507
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 1000,
+    "took": 0.005904103629291058,
+    "throughput": 270997953366.22876
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 1000,
+    "took": 0.005694085732102394,
+    "throughput": 280993310476.4198
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 1000,
+    "took": 0.005889615043997765,
+    "throughput": 271664614418.32178
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 1000,
+    "took": 0.005617605522274971,
+    "throughput": 284818859860.42773
+  },
+  {
+    "nbytes": 1600000000,
+    "nbytes_str": "1.49 GiB",
+    "columns": 1000,
+    "took": 0.0058627380058169365,
+    "throughput": 272910029138.6891
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 100,
+    "took": 0.000674310140311718,
+    "throughput": 4745590802654.567
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 100,
+    "took": 0.0005974350497126579,
+    "throughput": 5356230776113.772
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 100,
+    "took": 0.000627053901553154,
+    "throughput": 5103229550241.054
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 100,
+    "took": 0.0006278455257415771,
+    "throughput": 5096795101343.333
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 100,
+    "took": 0.0005991412326693535,
+    "throughput": 5340977762026.2295
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 100,
+    "took": 0.0006242496892809868,
+    "throughput": 5126153933189.414
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 100,
+    "took": 0.0006255488842725754,
+    "throughput": 5115507485432.008
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 100,
+    "took": 0.0006378227844834328,
+    "throughput": 5017067558336.996
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 100,
+    "took": 0.000570627860724926,
+    "throughput": 5607857975835.105
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 100,
+    "took": 0.0006096232682466507,
+    "throughput": 5249143473810.607
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 200,
+    "took": 0.0012416420504450798,
+    "throughput": 2577232302057.5264
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 200,
+    "took": 0.0011644074693322182,
+    "throughput": 2748178867175.4087
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 200,
+    "took": 0.001177128404378891,
+    "throughput": 2718479978986.2114
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 200,
+    "took": 0.0018274234607815742,
+    "throughput": 1751099331203.3906
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 200,
+    "took": 0.0010901056230068207,
+    "throughput": 2935495361608.6226
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 200,
+    "took": 0.0010702647268772125,
+    "throughput": 2989914475960.4175
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 200,
+    "took": 0.0010806536301970482,
+    "throughput": 2961170823454.7886
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 200,
+    "took": 0.001109318807721138,
+    "throughput": 2884653156267.788
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 200,
+    "took": 0.0010925410315394402,
+    "throughput": 2928951780869.0938
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 200,
+    "took": 0.0011268677189946175,
+    "throughput": 2839729939956.941
+  },
+  {
+    "nbytes": 3199999200,
+    "nbytes_str": "2.98 GiB",
+    "columns": 300,
+    "took": 0.0017769057303667068,
+    "throughput": 1800882931104.963
+  },
+  {
+    "nbytes": 3199999200,
+    "nbytes_str": "2.98 GiB",
+    "columns": 300,
+    "took": 0.0023383265361189842,
+    "throughput": 1368499715745.9321
+  },
+  {
+    "nbytes": 3199999200,
+    "nbytes_str": "2.98 GiB",
+    "columns": 300,
+    "took": 0.0015203002840280533,
+    "throughput": 2104846807975.0435
+  },
+  {
+    "nbytes": 3199999200,
+    "nbytes_str": "2.98 GiB",
+    "columns": 300,
+    "took": 0.001497425138950348,
+    "throughput": 2137001120632.3862
+  },
+  {
+    "nbytes": 3199999200,
+    "nbytes_str": "2.98 GiB",
+    "columns": 300,
+    "took": 0.0014658616855740547,
+    "throughput": 2183015786204.16
+  },
+  {
+    "nbytes": 3199999200,
+    "nbytes_str": "2.98 GiB",
+    "columns": 300,
+    "took": 0.0014632642269134521,
+    "throughput": 2186890884874.5269
+  },
+  {
+    "nbytes": 3199999200,
+    "nbytes_str": "2.98 GiB",
+    "columns": 300,
+    "took": 0.001516450196504593,
+    "throughput": 2110190764837.4973
+  },
+  {
+    "nbytes": 3199999200,
+    "nbytes_str": "2.98 GiB",
+    "columns": 300,
+    "took": 0.0014694854617118835,
+    "throughput": 2177632432152.2356
+  },
+  {
+    "nbytes": 3199999200,
+    "nbytes_str": "2.98 GiB",
+    "columns": 300,
+    "took": 0.0015122173354029655,
+    "throughput": 2116097418726.7107
+  },
+  {
+    "nbytes": 3199999200,
+    "nbytes_str": "2.98 GiB",
+    "columns": 300,
+    "took": 0.0014896662905812263,
+    "throughput": 2148131578349.3022
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 400,
+    "took": 0.003203839994966984,
+    "throughput": 998801439843.1207
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 400,
+    "took": 0.002236536704003811,
+    "throughput": 1430783583507.2205
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 400,
+    "took": 0.0021241744980216026,
+    "throughput": 1506467572687.833
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 400,
+    "took": 0.002195296809077263,
+    "throughput": 1457661664139.638
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 400,
+    "took": 0.002114121802151203,
+    "throughput": 1513630859273.989
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 400,
+    "took": 0.0021964730694890022,
+    "throughput": 1456881053745.1584
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 400,
+    "took": 0.002254464663565159,
+    "throughput": 1419405702699.9897
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 400,
+    "took": 0.002163844183087349,
+    "throughput": 1478849551650.376
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 400,
+    "took": 0.002354685217142105,
+    "throughput": 1358992691126.6118
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 400,
+    "took": 0.002229900099337101,
+    "throughput": 1435041866203.4626
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 500,
+    "took": 0.0029171062633395195,
+    "throughput": 1096977521942.1119
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 500,
+    "took": 0.002670452930033207,
+    "throughput": 1198298597219.689
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 500,
+    "took": 0.0025668302550911903,
+    "throughput": 1246673789064.5269
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 500,
+    "took": 0.0026705339550971985,
+    "throughput": 1198262240362.913
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 500,
+    "took": 0.0025893812999129295,
+    "throughput": 1235816447777.5457
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 500,
+    "took": 0.002584571950137615,
+    "throughput": 1238116044643.1436
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 500,
+    "took": 0.002650137059390545,
+    "throughput": 1207484718068.094
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 500,
+    "took": 0.0025958623737096786,
+    "throughput": 1232730992370.356
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 500,
+    "took": 0.0026210034266114235,
+    "throughput": 1220906454188.4766
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 500,
+    "took": 0.0026629650965332985,
+    "throughput": 1201668021922.5645
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 600,
+    "took": 0.003384336829185486,
+    "throughput": 945531417678.1123
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 600,
+    "took": 0.0031631402671337128,
+    "throughput": 1011651880648.241
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 600,
+    "took": 0.0031431885436177254,
+    "throughput": 1018073448536.081
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 600,
+    "took": 0.003398982807993889,
+    "throughput": 941457189037.2896
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 600,
+    "took": 0.0032899659126996994,
+    "throughput": 972653481802.8336
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 600,
+    "took": 0.0030317334458231926,
+    "throughput": 1055500708483.6641
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 600,
+    "took": 0.0031085647642612457,
+    "throughput": 1029412942200.8304
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 600,
+    "took": 0.003091908060014248,
+    "throughput": 1034958587994.1249
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 600,
+    "took": 0.003143865615129471,
+    "throughput": 1017854193449.1107
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 600,
+    "took": 0.0031131282448768616,
+    "throughput": 1027903943650.9222
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 700,
+    "took": 0.004056492820382118,
+    "throughput": 788857996721.0599
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 700,
+    "took": 0.0035866927355527878,
+    "throughput": 892185931702.569
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 700,
+    "took": 0.00378346536308527,
+    "throughput": 845784616193.9027
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 700,
+    "took": 0.003720003180205822,
+    "throughput": 860213458157.0302
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 700,
+    "took": 0.003620186820626259,
+    "throughput": 883931398724.4531
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 700,
+    "took": 0.003600514493882656,
+    "throughput": 888760982753.1195
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 700,
+    "took": 0.0081486776471138,
+    "throughput": 392701360708.92615
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 700,
+    "took": 0.003756806254386902,
+    "throughput": 851786486530.4928
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 700,
+    "took": 0.0037202173843979836,
+    "throughput": 860163928436.0886
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 700,
+    "took": 0.003695043735206127,
+    "throughput": 866024066105.266
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 800,
+    "took": 0.004718361422419548,
+    "throughput": 678201543611.0994
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 800,
+    "took": 0.004745060577988625,
+    "throughput": 674385489374.8148
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 800,
+    "took": 0.004411305300891399,
+    "throughput": 725408871463.3673
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 800,
+    "took": 0.004662242718040943,
+    "throughput": 686364952132.8713
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 800,
+    "took": 0.004702656529843807,
+    "throughput": 680466451183.983
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 800,
+    "took": 0.004514687694609165,
+    "throughput": 708797643704.35
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 800,
+    "took": 0.004448474384844303,
+    "throughput": 719347741082.2498
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 800,
+    "took": 0.004481594078242779,
+    "throughput": 714031646805.1724
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 800,
+    "took": 0.004622365348041058,
+    "throughput": 692286255857.3282
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 800,
+    "took": 0.0044422447681427,
+    "throughput": 720356524014.3032
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 900,
+    "took": 0.00522240437567234,
+    "throughput": 612743971896.6664
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 900,
+    "took": 0.004579881206154823,
+    "throughput": 698707380379.1198
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 900,
+    "took": 0.004584123380482197,
+    "throughput": 698060792522.4293
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 900,
+    "took": 0.004716617055237293,
+    "throughput": 678451687411.5845
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 900,
+    "took": 0.004600982181727886,
+    "throughput": 695502976018.5356
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 900,
+    "took": 0.004721607081592083,
+    "throughput": 677734666333.3516
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 900,
+    "took": 0.004597010090947151,
+    "throughput": 696103932053.9504
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 900,
+    "took": 0.004629550501704216,
+    "throughput": 691211122726.0675
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 900,
+    "took": 0.0046395352110266685,
+    "throughput": 689723572394.6327
+  },
+  {
+    "nbytes": 3199996800,
+    "nbytes_str": "2.98 GiB",
+    "columns": 900,
+    "took": 0.00463385134935379,
+    "throughput": 690569584293.258
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 1000,
+    "took": 0.006002636626362801,
+    "throughput": 533099069489.8997
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 1000,
+    "took": 0.005329540930688381,
+    "throughput": 600426948890.4512
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 1000,
+    "took": 0.006393103860318661,
+    "throughput": 500539342065.4514
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 1000,
+    "took": 0.005171502009034157,
+    "throughput": 618775743373.9526
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 1000,
+    "took": 0.005214116536080837,
+    "throughput": 613718542318.0554
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 1000,
+    "took": 0.005261864513158798,
+    "throughput": 608149448165.6615
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 1000,
+    "took": 0.005211568437516689,
+    "throughput": 614018608479.5615
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 1000,
+    "took": 0.005282488651573658,
+    "throughput": 605775082743.7589
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 1000,
+    "took": 0.005145559087395668,
+    "throughput": 621895491947.3333
+  },
+  {
+    "nbytes": 3200000000,
+    "nbytes_str": "2.98 GiB",
+    "columns": 1000,
+    "took": 0.005127700977027416,
+    "throughput": 624061351146.7032
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 100,
+    "took": 0.0006753047928214073,
+    "throughput": 9477202099012.14
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 100,
+    "took": 0.0006660865619778633,
+    "throughput": 9608360782712.648
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 100,
+    "took": 0.0006470009684562683,
+    "throughput": 9891793539768.998
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 100,
+    "took": 0.0005676625296473503,
+    "throughput": 11274304125685.166
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 100,
+    "took": 0.0005713813006877899,
+    "throughput": 11200926583169.795
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 100,
+    "took": 0.0006038127467036247,
+    "throughput": 10599312510276.26
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 100,
+    "took": 0.0006670849397778511,
+    "throughput": 9593980643801.21
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 100,
+    "took": 0.0006469739601016045,
+    "throughput": 9892206479214.26
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 100,
+    "took": 0.0006695715710520744,
+    "throughput": 9558350857017.277
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 100,
+    "took": 0.0005326634272933006,
+    "throughput": 12015091842368.908
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 200,
+    "took": 0.0013352138921618462,
+    "throughput": 4793239523322.929
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 200,
+    "took": 0.0011666836217045784,
+    "throughput": 5485634563592.575
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 200,
+    "took": 0.0011678151786327362,
+    "throughput": 5480319246657.714
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 200,
+    "took": 0.0017298869788646698,
+    "throughput": 3699663664848.4053
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 200,
+    "took": 0.0011136950924992561,
+    "throughput": 5746635720229.031
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 200,
+    "took": 0.001033959910273552,
+    "throughput": 6189795113339.326
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 200,
+    "took": 0.0011439695954322815,
+    "throughput": 5594554283220.769
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 200,
+    "took": 0.0010501910001039505,
+    "throughput": 6094129543451.155
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 200,
+    "took": 0.001163075678050518,
+    "throughput": 5502651393009.369
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 200,
+    "took": 0.0010482193902134895,
+    "throughput": 6105592073331.634
+  },
+  {
+    "nbytes": 6399998400,
+    "nbytes_str": "5.96 GiB",
+    "columns": 300,
+    "took": 0.0019890116527676582,
+    "throughput": 3217677679813.775
+  },
+  {
+    "nbytes": 6399998400,
+    "nbytes_str": "5.96 GiB",
+    "columns": 300,
+    "took": 0.0022826017811894417,
+    "throughput": 2803817316161.4824
+  },
+  {
+    "nbytes": 6399998400,
+    "nbytes_str": "5.96 GiB",
+    "columns": 300,
+    "took": 0.001634715124964714,
+    "throughput": 3915054251509.508
+  },
+  {
+    "nbytes": 6399998400,
+    "nbytes_str": "5.96 GiB",
+    "columns": 300,
+    "took": 0.0016593951731920242,
+    "throughput": 3856825970928.2617
+  },
+  {
+    "nbytes": 6399998400,
+    "nbytes_str": "5.96 GiB",
+    "columns": 300,
+    "took": 0.001578325405716896,
+    "throughput": 4054929596151.9653
+  },
+  {
+    "nbytes": 6399998400,
+    "nbytes_str": "5.96 GiB",
+    "columns": 300,
+    "took": 0.0015839515253901482,
+    "throughput": 4040526681158.122
+  },
+  {
+    "nbytes": 6399998400,
+    "nbytes_str": "5.96 GiB",
+    "columns": 300,
+    "took": 0.0015811547636985779,
+    "throughput": 4047673603455.0874
+  },
+  {
+    "nbytes": 6399998400,
+    "nbytes_str": "5.96 GiB",
+    "columns": 300,
+    "took": 0.006062055006623268,
+    "throughput": 1055747332052.8274
+  },
+  {
+    "nbytes": 6399998400,
+    "nbytes_str": "5.96 GiB",
+    "columns": 300,
+    "took": 0.0015960130840539932,
+    "throughput": 4009991186127.0728
+  },
+  {
+    "nbytes": 6399998400,
+    "nbytes_str": "5.96 GiB",
+    "columns": 300,
+    "took": 0.0015480825677514076,
+    "throughput": 4134145383017.9146
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 400,
+    "took": 0.003110636956989765,
+    "throughput": 2057456427250.0083
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 400,
+    "took": 0.0021935896947979927,
+    "throughput": 2917592116327.559
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 400,
+    "took": 0.002109389752149582,
+    "throughput": 3034052855086.669
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 400,
+    "took": 0.0021355822682380676,
+    "throughput": 2996840765717.8345
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 400,
+    "took": 0.0021030129864811897,
+    "throughput": 3043252724134.923
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 400,
+    "took": 0.0023125391453504562,
+    "throughput": 2767520719754.1753
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 400,
+    "took": 0.0022152913734316826,
+    "throughput": 2889010482664.3335
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 400,
+    "took": 0.002092207781970501,
+    "throughput": 3058969599076.9604
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 400,
+    "took": 0.0021128039807081223,
+    "throughput": 3029149915675.0884
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 400,
+    "took": 0.0020996946841478348,
+    "throughput": 3048062200813.473
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 500,
+    "took": 0.002882564440369606,
+    "throughput": 2220245247727.8823
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 500,
+    "took": 0.0025295373052358627,
+    "throughput": 2530106983104.2646
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 500,
+    "took": 0.002587149851024151,
+    "throughput": 2473764709634.6167
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 500,
+    "took": 0.002597675658762455,
+    "throughput": 2463740990300.918
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 500,
+    "took": 0.0025937287136912346,
+    "throughput": 2467490129641.1665
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 500,
+    "took": 0.0026290379464626312,
+    "throughput": 2434350561052.645
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 500,
+    "took": 0.0027110353112220764,
+    "throughput": 2360721741066.153
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 500,
+    "took": 0.0026534562930464745,
+    "throughput": 2411948527952.597
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 500,
+    "took": 0.0027405796572566032,
+    "throughput": 2335272387742.4453
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 500,
+    "took": 0.002632669173181057,
+    "throughput": 2430992874150.9414
+  },
+  {
+    "nbytes": 6399998400,
+    "nbytes_str": "5.96 GiB",
+    "columns": 600,
+    "took": 0.0034530004486441612,
+    "throughput": 1853460054577.4597
+  },
+  {
+    "nbytes": 6399998400,
+    "nbytes_str": "5.96 GiB",
+    "columns": 600,
+    "took": 0.003066224977374077,
+    "throughput": 2087256625729.067
+  },
+  {
+    "nbytes": 6399998400,
+    "nbytes_str": "5.96 GiB",
+    "columns": 600,
+    "took": 0.0031597036868333817,
+    "throughput": 2025505881032.156
+  },
+  {
+    "nbytes": 6399998400,
+    "nbytes_str": "5.96 GiB",
+    "columns": 600,
+    "took": 0.003221518360078335,
+    "throughput": 1986640361672.307
+  },
+  {
+    "nbytes": 6399998400,
+    "nbytes_str": "5.96 GiB",
+    "columns": 600,
+    "took": 0.003112412989139557,
+    "throughput": 2056281869511.576
+  },
+  {
+    "nbytes": 6399998400,
+    "nbytes_str": "5.96 GiB",
+    "columns": 600,
+    "took": 0.003288762643933296,
+    "throughput": 1946020158008.6443
+  },
+  {
+    "nbytes": 6399998400,
+    "nbytes_str": "5.96 GiB",
+    "columns": 600,
+    "took": 0.003168366849422455,
+    "throughput": 2019967606076.4941
+  },
+  {
+    "nbytes": 6399998400,
+    "nbytes_str": "5.96 GiB",
+    "columns": 600,
+    "took": 0.0032763853669166565,
+    "throughput": 1953371683509.5366
+  },
+  {
+    "nbytes": 6399998400,
+    "nbytes_str": "5.96 GiB",
+    "columns": 600,
+    "took": 0.0032681673765182495,
+    "throughput": 1958283546303.0215
+  },
+  {
+    "nbytes": 6399998400,
+    "nbytes_str": "5.96 GiB",
+    "columns": 600,
+    "took": 0.0032278187572956085,
+    "throughput": 1982762627404.2
+  },
+  {
+    "nbytes": 6399999200,
+    "nbytes_str": "5.96 GiB",
+    "columns": 700,
+    "took": 0.004046152345836163,
+    "throughput": 1581749438225.2185
+  },
+  {
+    "nbytes": 6399999200,
+    "nbytes_str": "5.96 GiB",
+    "columns": 700,
+    "took": 0.005315791815519333,
+    "throughput": 1203959715148.2397
+  },
+  {
+    "nbytes": 6399999200,
+    "nbytes_str": "5.96 GiB",
+    "columns": 700,
+    "took": 0.00393254030495882,
+    "throughput": 1627446562195.3792
+  },
+  {
+    "nbytes": 6399999200,
+    "nbytes_str": "5.96 GiB",
+    "columns": 700,
+    "took": 0.003718489781022072,
+    "throughput": 1721128623954.6646
+  },
+  {
+    "nbytes": 6399999200,
+    "nbytes_str": "5.96 GiB",
+    "columns": 700,
+    "took": 0.003701494075357914,
+    "throughput": 1729031323488.2473
+  },
+  {
+    "nbytes": 6399999200,
+    "nbytes_str": "5.96 GiB",
+    "columns": 700,
+    "took": 0.003603382036089897,
+    "throughput": 1776108982034.2139
+  },
+  {
+    "nbytes": 6399999200,
+    "nbytes_str": "5.96 GiB",
+    "columns": 700,
+    "took": 0.003842421807348728,
+    "throughput": 1665615989311.6995
+  },
+  {
+    "nbytes": 6399999200,
+    "nbytes_str": "5.96 GiB",
+    "columns": 700,
+    "took": 0.0037583205848932266,
+    "throughput": 1702888046784.8176
+  },
+  {
+    "nbytes": 6399999200,
+    "nbytes_str": "5.96 GiB",
+    "columns": 700,
+    "took": 0.003747827373445034,
+    "throughput": 1707655812897.558
+  },
+  {
+    "nbytes": 6399999200,
+    "nbytes_str": "5.96 GiB",
+    "columns": 700,
+    "took": 0.0036601852625608444,
+    "throughput": 1748545153018.3606
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 800,
+    "took": 0.004520208574831486,
+    "throughput": 1415863868679.6865
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 800,
+    "took": 0.004490425810217857,
+    "throughput": 1425254590653.0627
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 800,
+    "took": 0.00418312381953001,
+    "throughput": 1529957102899.9722
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 800,
+    "took": 0.0044040372595191,
+    "throughput": 1453212046779.7427
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 800,
+    "took": 0.0041808271780610085,
+    "throughput": 1530797549725.1248
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 800,
+    "took": 0.004129474982619286,
+    "throughput": 1549833823170.553
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 800,
+    "took": 0.004216264002025127,
+    "throughput": 1517931513995.8018
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 800,
+    "took": 0.004200073890388012,
+    "throughput": 1523782715977.112
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 800,
+    "took": 0.004279987886548042,
+    "throughput": 1495331334958.9456
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 800,
+    "took": 0.0041882432997226715,
+    "throughput": 1528086966777.642
+  },
+  {
+    "nbytes": 6399993600,
+    "nbytes_str": "5.96 GiB",
+    "columns": 900,
+    "took": 0.005218357779085636,
+    "throughput": 1226438253362.0396
+  },
+  {
+    "nbytes": 6399993600,
+    "nbytes_str": "5.96 GiB",
+    "columns": 900,
+    "took": 0.004500416107475758,
+    "throughput": 1422089301780.0742
+  },
+  {
+    "nbytes": 6399993600,
+    "nbytes_str": "5.96 GiB",
+    "columns": 900,
+    "took": 0.005142481066286564,
+    "throughput": 1244534207808.2747
+  },
+  {
+    "nbytes": 6399993600,
+    "nbytes_str": "5.96 GiB",
+    "columns": 900,
+    "took": 0.004518927074968815,
+    "throughput": 1416263970146.977
+  },
+  {
+    "nbytes": 6399993600,
+    "nbytes_str": "5.96 GiB",
+    "columns": 900,
+    "took": 0.004537259228527546,
+    "throughput": 1410541756080.5662
+  },
+  {
+    "nbytes": 6399993600,
+    "nbytes_str": "5.96 GiB",
+    "columns": 900,
+    "took": 0.004647529684007168,
+    "throughput": 1377074281423.8105
+  },
+  {
+    "nbytes": 6399993600,
+    "nbytes_str": "5.96 GiB",
+    "columns": 900,
+    "took": 0.004534420557320118,
+    "throughput": 1411424793773.9705
+  },
+  {
+    "nbytes": 6399993600,
+    "nbytes_str": "5.96 GiB",
+    "columns": 900,
+    "took": 0.004509462043642998,
+    "throughput": 1419236604734.7244
+  },
+  {
+    "nbytes": 6399993600,
+    "nbytes_str": "5.96 GiB",
+    "columns": 900,
+    "took": 0.0045160697773098946,
+    "throughput": 1417160034186.2544
+  },
+  {
+    "nbytes": 6399993600,
+    "nbytes_str": "5.96 GiB",
+    "columns": 900,
+    "took": 0.004643821157515049,
+    "throughput": 1378174004320.3333
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 1000,
+    "took": 0.005739576183259487,
+    "throughput": 1115064909960.906
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 1000,
+    "took": 0.005294298753142357,
+    "throughput": 1208847535511.9258
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 1000,
+    "took": 0.005416315980255604,
+    "throughput": 1181614961780.3455
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 1000,
+    "took": 0.004894902929663658,
+    "throughput": 1307482516397.881
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 1000,
+    "took": 0.004942387342453003,
+    "throughput": 1294920765320.582
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 1000,
+    "took": 0.004965062253177166,
+    "throughput": 1289007000044.08
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 1000,
+    "took": 0.005408972501754761,
+    "throughput": 1183219178489.7656
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 1000,
+    "took": 0.005165110342204571,
+    "throughput": 1239082919043.3818
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 1000,
+    "took": 0.004930549301207066,
+    "throughput": 1298029815548.7854
+  },
+  {
+    "nbytes": 6400000000,
+    "nbytes_str": "5.96 GiB",
+    "columns": 1000,
+    "took": 0.005139363929629326,
+    "throughput": 1245290290322.2883
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 100,
+    "took": 0.0006489809602499008,
+    "throughput": 19723228852617.11
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 100,
+    "took": 0.000562865287065506,
+    "throughput": 22740787705585.3
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 100,
+    "took": 0.000593649223446846,
+    "throughput": 21561554356427.258
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 100,
+    "took": 0.000650990754365921,
+    "throughput": 19662337620243.895
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 100,
+    "took": 0.0006574923172593117,
+    "throughput": 19467908086524.066
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 100,
+    "took": 0.0005798507481813431,
+    "throughput": 22074646001831.0
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 100,
+    "took": 0.0006726803258061409,
+    "throughput": 19028354939116.832
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 100,
+    "took": 0.0005713021382689476,
+    "throughput": 22404957276694.527
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 100,
+    "took": 0.0005873553454875946,
+    "throughput": 21792599826216.01
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 100,
+    "took": 0.0005361055955290794,
+    "throughput": 23875893306742.594
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 200,
+    "took": 0.0013330904766917229,
+    "throughput": 9601748886366.098
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 200,
+    "took": 0.0011653797701001167,
+    "throughput": 10983544015784.969
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 200,
+    "took": 0.0012039346620440483,
+    "throughput": 10631806196416.07
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 200,
+    "took": 0.0020110253244638443,
+    "throughput": 6364912387869.896
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 200,
+    "took": 0.0010910658165812492,
+    "throughput": 11731647903797.023
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 200,
+    "took": 0.0011730892583727837,
+    "throughput": 10911360673232.27
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 200,
+    "took": 0.0010721124708652496,
+    "throughput": 11939045900351.988
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 200,
+    "took": 0.0010938933119177818,
+    "throughput": 11701323941326.064
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 200,
+    "took": 0.0010856995359063148,
+    "throughput": 11789633850506.236
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 200,
+    "took": 0.0010649589821696281,
+    "throughput": 12019242256563.453
+  },
+  {
+    "nbytes": 12799999200,
+    "nbytes_str": "11.92 GiB",
+    "columns": 300,
+    "took": 0.0018038181588053703,
+    "throughput": 7096058512060.419
+  },
+  {
+    "nbytes": 12799999200,
+    "nbytes_str": "11.92 GiB",
+    "columns": 300,
+    "took": 0.002393364906311035,
+    "throughput": 5348118528122.409
+  },
+  {
+    "nbytes": 12799999200,
+    "nbytes_str": "11.92 GiB",
+    "columns": 300,
+    "took": 0.0017146551981568336,
+    "throughput": 7465057239355.961
+  },
+  {
+    "nbytes": 12799999200,
+    "nbytes_str": "11.92 GiB",
+    "columns": 300,
+    "took": 0.0016361614689230919,
+    "throughput": 7823188262968.235
+  },
+  {
+    "nbytes": 12799999200,
+    "nbytes_str": "11.92 GiB",
+    "columns": 300,
+    "took": 0.0016868878155946732,
+    "throughput": 7587937432275.339
+  },
+  {
+    "nbytes": 12799999200,
+    "nbytes_str": "11.92 GiB",
+    "columns": 300,
+    "took": 0.0016979966312646866,
+    "throughput": 7538294814204.914
+  },
+  {
+    "nbytes": 12799999200,
+    "nbytes_str": "11.92 GiB",
+    "columns": 300,
+    "took": 0.0017079627141356468,
+    "throughput": 7494308332414.463
+  },
+  {
+    "nbytes": 12799999200,
+    "nbytes_str": "11.92 GiB",
+    "columns": 300,
+    "took": 0.0016227681189775467,
+    "throughput": 7887756143536.307
+  },
+  {
+    "nbytes": 12799999200,
+    "nbytes_str": "11.92 GiB",
+    "columns": 300,
+    "took": 0.001630605198442936,
+    "throughput": 7849845696691.457
+  },
+  {
+    "nbytes": 12799999200,
+    "nbytes_str": "11.92 GiB",
+    "columns": 300,
+    "took": 0.0018673921003937721,
+    "throughput": 6854478605377.466
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 400,
+    "took": 0.0035100840032100677,
+    "throughput": 3646636373458.3135
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 400,
+    "took": 0.002445939928293228,
+    "throughput": 5233162046188.033
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 400,
+    "took": 0.0022563468664884567,
+    "throughput": 5672886642611.199
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 400,
+    "took": 0.0022425707429647446,
+    "throughput": 5707735214220.276
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 400,
+    "took": 0.0025706300511956215,
+    "throughput": 4979324035384.482
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 400,
+    "took": 0.0022752024233341217,
+    "throughput": 5625873051437.179
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 400,
+    "took": 0.0022718776017427444,
+    "throughput": 5634106340139.624
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 400,
+    "took": 0.002316471189260483,
+    "throughput": 5525646103151.54
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 400,
+    "took": 0.00228674802929163,
+    "throughput": 5597468473150.966
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 400,
+    "took": 0.002304072491824627,
+    "throughput": 5555380764024.2705
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 500,
+    "took": 0.0030022216960787773,
+    "throughput": 4263509259398.8545
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 500,
+    "took": 0.0025825081393122673,
+    "throughput": 4956421939258.125
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 500,
+    "took": 0.0027370601892471313,
+    "throughput": 4676550428188.0
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 500,
+    "took": 0.0025508003309369087,
+    "throughput": 5018032907067.47
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 500,
+    "took": 0.0025442494079470634,
+    "throughput": 5030953317712.759
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 500,
+    "took": 0.0026147961616516113,
+    "throughput": 4895219056737.104
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 500,
+    "took": 0.0025570299476385117,
+    "throughput": 5005807621385.567
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 500,
+    "took": 0.002653210423886776,
+    "throughput": 4824344079445.027
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 500,
+    "took": 0.0026464900001883507,
+    "throughput": 4836594885712.405
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 500,
+    "took": 0.0025573456659913063,
+    "throughput": 5005189626971.418
+  },
+  {
+    "nbytes": 12799996800,
+    "nbytes_str": "11.92 GiB",
+    "columns": 600,
+    "took": 0.003306278958916664,
+    "throughput": 3871420699538.9307
+  },
+  {
+    "nbytes": 12799996800,
+    "nbytes_str": "11.92 GiB",
+    "columns": 600,
+    "took": 0.0031253015622496605,
+    "throughput": 4095603750566.1636
+  },
+  {
+    "nbytes": 12799996800,
+    "nbytes_str": "11.92 GiB",
+    "columns": 600,
+    "took": 0.003045826219022274,
+    "throughput": 4202471145615.4136
+  },
+  {
+    "nbytes": 12799996800,
+    "nbytes_str": "11.92 GiB",
+    "columns": 600,
+    "took": 0.003143511712551117,
+    "throughput": 4071878195615.8716
+  },
+  {
+    "nbytes": 12799996800,
+    "nbytes_str": "11.92 GiB",
+    "columns": 600,
+    "took": 0.0030061025172472,
+    "throughput": 4258004085543.1084
+  },
+  {
+    "nbytes": 12799996800,
+    "nbytes_str": "11.92 GiB",
+    "columns": 600,
+    "took": 0.0029588742181658745,
+    "throughput": 4325968546217.679
+  },
+  {
+    "nbytes": 12799996800,
+    "nbytes_str": "11.92 GiB",
+    "columns": 600,
+    "took": 0.0030687544494867325,
+    "throughput": 4171072339183.37
+  },
+  {
+    "nbytes": 12799996800,
+    "nbytes_str": "11.92 GiB",
+    "columns": 600,
+    "took": 0.002998027950525284,
+    "throughput": 4269472136761.5386
+  },
+  {
+    "nbytes": 12799996800,
+    "nbytes_str": "11.92 GiB",
+    "columns": 600,
+    "took": 0.0031025828793644905,
+    "throughput": 4125593835102.2725
+  },
+  {
+    "nbytes": 12799996800,
+    "nbytes_str": "11.92 GiB",
+    "columns": 600,
+    "took": 0.0030468814074993134,
+    "throughput": 4201015756141.7607
+  },
+  {
+    "nbytes": 12799998400,
+    "nbytes_str": "11.92 GiB",
+    "columns": 700,
+    "took": 0.004026197828352451,
+    "throughput": 3179177711999.773
+  },
+  {
+    "nbytes": 12799998400,
+    "nbytes_str": "11.92 GiB",
+    "columns": 700,
+    "took": 0.0037029199302196503,
+    "throughput": 3456731077423.197
+  },
+  {
+    "nbytes": 12799998400,
+    "nbytes_str": "11.92 GiB",
+    "columns": 700,
+    "took": 0.0038468101993203163,
+    "throughput": 3327431751704.724
+  },
+  {
+    "nbytes": 12799998400,
+    "nbytes_str": "11.92 GiB",
+    "columns": 700,
+    "took": 0.0038231294602155685,
+    "throughput": 3348042103517.5376
+  },
+  {
+    "nbytes": 12799998400,
+    "nbytes_str": "11.92 GiB",
+    "columns": 700,
+    "took": 0.0035143401473760605,
+    "throughput": 3642219552810.4937
+  },
+  {
+    "nbytes": 12799998400,
+    "nbytes_str": "11.92 GiB",
+    "columns": 700,
+    "took": 0.00363133754581213,
+    "throughput": 3524871548986.5996
+  },
+  {
+    "nbytes": 12799998400,
+    "nbytes_str": "11.92 GiB",
+    "columns": 700,
+    "took": 0.003634551540017128,
+    "throughput": 3521754543598.9824
+  },
+  {
+    "nbytes": 12799998400,
+    "nbytes_str": "11.92 GiB",
+    "columns": 700,
+    "took": 0.0036542415618896484,
+    "throughput": 3502778396888.7324
+  },
+  {
+    "nbytes": 12799998400,
+    "nbytes_str": "11.92 GiB",
+    "columns": 700,
+    "took": 0.0036488454788923264,
+    "throughput": 3507958469067.776
+  },
+  {
+    "nbytes": 12799998400,
+    "nbytes_str": "11.92 GiB",
+    "columns": 700,
+    "took": 0.0036371881142258644,
+    "throughput": 3519201646441.193
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 800,
+    "took": 0.00483632180839777,
+    "throughput": 2646639431183.866
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 800,
+    "took": 0.004899479448795319,
+    "throughput": 2612522439123.0493
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 800,
+    "took": 0.004454932175576687,
+    "throughput": 2873219949379.6
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 800,
+    "took": 0.004625814035534859,
+    "throughput": 2767080540132.436
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 800,
+    "took": 0.004827782511711121,
+    "throughput": 2651320760400.8804
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 800,
+    "took": 0.004115859977900982,
+    "throughput": 3109921151041.6304
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 800,
+    "took": 0.004075752571225166,
+    "throughput": 3140524302276.8516
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 800,
+    "took": 0.00422812532633543,
+    "throughput": 3027346403445.8794
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 800,
+    "took": 0.004075781442224979,
+    "throughput": 3140502056217.3345
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 800,
+    "took": 0.0041058678179979324,
+    "throughput": 3117489546032.5425
+  },
+  {
+    "nbytes": 12799994400,
+    "nbytes_str": "11.92 GiB",
+    "columns": 900,
+    "took": 0.0055784862488508224,
+    "throughput": 2294528269678.3237
+  },
+  {
+    "nbytes": 12799994400,
+    "nbytes_str": "11.92 GiB",
+    "columns": 900,
+    "took": 0.0047167325392365456,
+    "throughput": 2713741831558.636
+  },
+  {
+    "nbytes": 12799994400,
+    "nbytes_str": "11.92 GiB",
+    "columns": 900,
+    "took": 0.004800789058208466,
+    "throughput": 2666227206570.213
+  },
+  {
+    "nbytes": 12799994400,
+    "nbytes_str": "11.92 GiB",
+    "columns": 900,
+    "took": 0.0047842105850577354,
+    "throughput": 2675466343387.46
+  },
+  {
+    "nbytes": 12799994400,
+    "nbytes_str": "11.92 GiB",
+    "columns": 900,
+    "took": 0.004875699989497662,
+    "throughput": 2625262921748.959
+  },
+  {
+    "nbytes": 12799994400,
+    "nbytes_str": "11.92 GiB",
+    "columns": 900,
+    "took": 0.004932386800646782,
+    "throughput": 2595091365973.476
+  },
+  {
+    "nbytes": 12799994400,
+    "nbytes_str": "11.92 GiB",
+    "columns": 900,
+    "took": 0.004750403575599194,
+    "throughput": 2694506729017.3276
+  },
+  {
+    "nbytes": 12799994400,
+    "nbytes_str": "11.92 GiB",
+    "columns": 900,
+    "took": 0.004933483898639679,
+    "throughput": 2594514274897.983
+  },
+  {
+    "nbytes": 12799994400,
+    "nbytes_str": "11.92 GiB",
+    "columns": 900,
+    "took": 0.004811740480363369,
+    "throughput": 2660158928403.6743
+  },
+  {
+    "nbytes": 12799994400,
+    "nbytes_str": "11.92 GiB",
+    "columns": 900,
+    "took": 0.0048606377094984055,
+    "throughput": 2633398159872.5034
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 1000,
+    "took": 0.00623517669737339,
+    "throughput": 2052868847388.4126
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 1000,
+    "took": 0.005540608428418636,
+    "throughput": 2310215595519.5864
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 1000,
+    "took": 0.005625108256936073,
+    "throughput": 2275511761789.986
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 1000,
+    "took": 0.005299857817590237,
+    "throughput": 2415159130782.109
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 1000,
+    "took": 0.0053017474710941315,
+    "throughput": 2414298317637.23
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 1000,
+    "took": 0.005903419107198715,
+    "throughput": 2168235012213.7683
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 1000,
+    "took": 0.005421284586191177,
+    "throughput": 2361064023940.6567
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 1000,
+    "took": 0.005413937382400036,
+    "throughput": 2364268201847.1504
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 1000,
+    "took": 0.005225726403295994,
+    "throughput": 2449420235993.7417
+  },
+  {
+    "nbytes": 12800000000,
+    "nbytes_str": "11.92 GiB",
+    "columns": 1000,
+    "took": 0.007298908196389675,
+    "throughput": 1753686942703.4827
+  }
+]
